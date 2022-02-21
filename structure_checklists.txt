@@ -1,0 +1,13 @@
+Check list
+1) Window content
+Checking the operation of the "Minimize Application" button.
+Checking the operation of the functionality of expanding the application from the taskbar.
+Checking the operation of the "Deploy Application" button.
+Checking the operation of the "Close Application" button.
+
+2) Checking the entrance to your personal account on the site
+Checking the entrance to your personal account on the site using the login;
+Checking the entrance to your personal account on the site using email;
+Checking the entrance to your personal account on the site using a phone number;
+Checking the entrance to your personal account on the site using a certificate.
+
