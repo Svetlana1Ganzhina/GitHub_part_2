@@ -10,4 +10,3 @@ Checking the entrance to your personal account on the site using the login;
 Checking the entrance to your personal account on the site using email;
 Checking the entrance to your personal account on the site using a phone number;
 Checking the entrance to your personal account on the site using a certificate.
-
